@@ -9,4 +9,7 @@ public class gitTest {
         System.out.println("我爱Java");
         System.out.println("我爱Java");
     }
+    public void demo(){
+        System.out.println("java爱我");
+    }
 }

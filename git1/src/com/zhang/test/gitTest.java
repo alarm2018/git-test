@@ -13,5 +13,6 @@ public class gitTest {
     public void demo(){
         System.out.println("java爱我");
         System.out.println("hello word");
+        System.out.println("java爱我");
     }
 }
